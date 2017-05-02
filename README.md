@@ -10,6 +10,7 @@ Push a static site template for a no-frills deli menu, hours, location.
 * Minimalist design that makes it easy to read the menu quickly.
 * Easy-to-understand deployment instructions (github pages, gitlab pages, netlify, heroku, etc)
 * Add a few examples and a demo
+* Add some sort of default 'Unofficial menu for abc deli' notice.
 
 ### Reason
 
